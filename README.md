@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @artimesphoenix
+- 👀 I’m interested in PHP, Front-end web, C++, Python , Linux
+- 🌱 I’m currently learning C++, Python , Linux
+- 📫 How to reach me artimesphoenix@gmaill.com
+- 💬 I can speak English, Persian
